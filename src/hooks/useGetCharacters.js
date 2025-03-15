@@ -41,3 +41,5 @@ const useGetCharacters = (url) => {
         hasError: state.hasError
     };
 };
+
+export default useGetCharacters;
